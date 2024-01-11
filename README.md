@@ -1,0 +1,1 @@
+For this activity, we imported csv files containing employee data from different tables. We established the relationship across all tables in order to make an easy to query selection on specific employee information. AskBCS help was utilized in order to set up the relationship table and the ERD.
